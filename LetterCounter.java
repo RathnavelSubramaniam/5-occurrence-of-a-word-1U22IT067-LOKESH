@@ -23,5 +23,5 @@ public class LetterCounter {
         // Display the results
         for (Map.Entry<Character, Integer> entry : letterCount.entrySet()) {
             System.out.println(entry.getKey() + ": " + entry.getValue());
-        }
+      }
     }}
